@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mybase.iml" filepath="$PROJECT_DIR$/mybase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm-dao/mm-dao.iml" filepath="$PROJECT_DIR$/mm-dao/mm-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm-service/mm-service.iml" filepath="$PROJECT_DIR$/mm-service/mm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm-thirdinterface/mm-thirdinterface.iml" filepath="$PROJECT_DIR$/mm-thirdinterface/mm-thirdinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm-util/mm-util.iml" filepath="$PROJECT_DIR$/mm-util/mm-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm-web/mm-web.iml" filepath="$PROJECT_DIR$/mm-web/mm-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mmybase.iml" filepath="$PROJECT_DIR$/mmybase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model-system/model-system.iml" filepath="$PROJECT_DIR$/model-system/model-system.iml" />
     </modules>
   </component>
 </project>
