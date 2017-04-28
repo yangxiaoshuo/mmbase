@@ -1,1 +1,1 @@
-# mybase，SSM基础版
+# mmbase，多模块版
